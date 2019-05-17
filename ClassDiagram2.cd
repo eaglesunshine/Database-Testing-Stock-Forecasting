@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="dbaccessor::Accessor" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="dbaccessor::Accessor::KeyName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="dbaccessor::Accessor::Key_Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="dbaccessor::Accessor::Key_Other" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="dbaccessor::Accessor::Key_Value" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="dbaccessor::Accessor::Table_Key" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="dbaccessor::Accessor::Record" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Accessor.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>YPQACAiAYAAIAIABiGEEICDACABAAEIgAAQAABAAgAA=</HashCode>
+      <FileName>Accessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbaccessor::Data" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAEAAAAAIAIAAAAAAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Accessor_Data.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dbaccessor::Data_Record" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAIAAACAAAAAAAAAAAAEAAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Accessor_DataRecord.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuyPointer">
+    <Position X="6" Y="3.75" Width="10.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAAAAE=</HashCode>
+      <FileName>BuyPointer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConfigFile" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ConfigFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSVLoader" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEIQgAEIBgAAgAEACAIAAAhAAAAAhAABIBAAAAAAIQ=</HashCode>
+      <FileName>CSVLoader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBConvolution">
+    <Position X="22.5" Y="7" Width="10.25" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAAAAAAAABAAAAAAAAAAAEgAAAAAIAAAAgAAA=</HashCode>
+      <FileName>DBConvolution.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProfitComp">
+    <Position X="11.5" Y="1.5" Width="12" />
+    <TypeIdentifier>
+      <HashCode>AAAAoAAAAAAAAAAAAACCAAAAAAAAAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>ProfitComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProfitSearcher">
+    <Position X="13.75" Y="7" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>EAIARAAAAAAAAAAAAAEAjCAAAQCAAAABAAEQAEAQAAA=</HashCode>
+      <FileName>ProfitSearcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Test" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Test.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="dbaccessor::ConnInfo" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQEAAIEAAAAAAAAAAAAAAAAAEgAAAAgAAEAAAA=</HashCode>
+      <FileName>ConnInfo.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ProfitArguments">
+    <Position X="2.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAAAAAAAEAjCAAAQCAAAABAAEQAEAABAA=</HashCode>
+      <FileName>profitArguments.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
