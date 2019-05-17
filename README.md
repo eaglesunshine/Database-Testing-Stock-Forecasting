@@ -1,2 +1,3 @@
-# Database-Testing-Stock-Forecasting
-遗传算法预测股价买卖
+# 数据库连接测试 & 使用遗传算法预测股价买卖
+
+测试数据库：MySQL(远程), SQL Server 2017(远程)
